@@ -1,0 +1,7 @@
+[package]
+name = "graph2vec"
+version = "0.1.0"
+authors = ["dezmound <profacorp@gmail.com>"]
+
+[dependencies]
+json = "*"
