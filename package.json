@@ -7,7 +7,7 @@
      "name": "graph2vec",
      "version": "1.0.0",
      "bin": "./graph2vec"
-  }
+  },
   "scripts": {
     "start": "./target/debug/graph2vec"
   },
